@@ -1,3 +1,7 @@
+body{
+    overflow: hidden;
+}
+
 #timeline {
     overflow: hidden;
     width: 100%;
